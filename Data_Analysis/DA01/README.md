@@ -1,20 +1,27 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 코더 : 박진철
+- 리뷰어 : 김병규
 
 
 # PRT(Peer Review Template)
-- [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+- [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
+<img width="753" height="925" alt="image" src="https://github.com/user-attachments/assets/6931abb1-3b80-449b-9e11-d9976092c684" />
+<img width="759" height="931" alt="image" src="https://github.com/user-attachments/assets/8cd6e5ab-27f1-48f9-8c90-90ae9bfad04b" />
+<img width="556" height="829" alt="image" src="https://github.com/user-attachments/assets/381df757-3bbf-46da-97ff-42d5d9c7780c" />
+<img width="359" height="584" alt="image" src="https://github.com/user-attachments/assets/b779ae74-7bfa-4700-b7e1-908a9f1dd2bc" />
+
     
-- [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
+- [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인
     - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+<img width="557" height="822" alt="image" src="https://github.com/user-attachments/assets/e01f90ef-0019-42f7-af50-5ead8e8c8e99" />
+
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
@@ -23,16 +30,21 @@
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         
-- [ ]  **4. 회고를 잘 작성했나요?**
+- [x]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+<img width="795" height="276" alt="image" src="https://github.com/user-attachments/assets/d22aa0d8-d8fa-4017-82b3-4569962a6ba5" />
+
         
-- [ ]  **5. 코드가 간결하고 효율적인가요?**
+- [x]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+<img width="754" height="917" alt="image" src="https://github.com/user-attachments/assets/c84bfe99-1e37-4046-ac89-057ba2da6b4d" />
+<img width="557" height="822" alt="image" src="https://github.com/user-attachments/assets/fb7b016a-1e84-4d3f-a240-c871e7d34b93" />
+
 
 
 # 회고(참고 링크 및 코드 개선)
@@ -40,4 +52,8 @@
 # 리뷰어의 회고를 작성합니다.
 # 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
 # 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
+```
+```
+당뇨병 과제에서 learning rate = 0.5 및 횟수 3001로 잘 설정해서 목표값 MSE 3000 이하를 달성 했습니다.
+전체적으로는 교제에 나와있는 코드를 이용하면서 핵심적인 부분을 보완하여 학습 목표를 잘 달성 했습니다.
 ```
